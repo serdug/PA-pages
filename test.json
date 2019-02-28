@@ -1,0 +1,12 @@
+{
+  "latest":{
+    "regimes":{
+      "equity":"SHORT (from json)",
+      "tbonds":"LONG (from json)"
+    },
+    "prices":{
+      "SPY":"270.06",
+      "TLT":"131.02"
+    }
+  }
+}
