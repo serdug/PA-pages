@@ -14,7 +14,7 @@
   });
 */
 
-  $.getJSON("https://cdn.jsdelivr.net/gh/serdug/PA-pages/outtext.json", function(data) {
+  $.getJSON("https://raw.githubusercontent.com/serdug/PA-pages/master/outtext.json", function(data) {
       // Regimes:
       var equityRegTxt = `${data.equity.signal}`;
       var tbondsRegTxt = `${data.tbonds.signal}`;
