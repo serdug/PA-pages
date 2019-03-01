@@ -36,7 +36,7 @@
     },
     "unrealized_chr": ["7.4"],
     "equivexp_chr": ["1"],
-    "apm": ["TBA"]
+    "apm": ["keep in"]
   },
   "tbonds": {
     "signal": ["LONG"],
@@ -140,7 +140,7 @@
     },
     "unrealized_chr": ["2.4"],
     "equivexp_chr": ["0.455"],
-    "apm": ["TBA"]
+    "apm": ["keep in"]
   },
   "oilwf_": {
     "signal": ["LONG"],
