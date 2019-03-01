@@ -5,6 +5,8 @@
     "dateSig_full": ["Friday, 01 March 2019"],
     "dateSig_dmy": ["01 March 2019"],
     "scale": [1],
+    "scalim_mil": ["$1M"],
+    "scalim_pct": ["100%"],
     "SPY": {
       "open_qty": [3615],
       "oqty_abs": ["3615"],
@@ -45,6 +47,8 @@
     "dateSig_full": ["Friday, 01 March 2019"],
     "dateSig_dmy": ["01 March 2019"],
     "scale": [1],
+    "scalim_mil": ["$1M"],
+    "scalim_pct": ["100%"],
     "TLT": {
       "open_qty": [8332],
       "oqty_abs": ["8332"],
@@ -85,6 +89,8 @@
     "dateSig_full": ["Friday, 01 March 2019"],
     "dateSig_dmy": ["01 March 2019"],
     "scale": [1],
+    "scalim_mil": ["$0.5M"],
+    "scalim_pct": ["100%"],
     "CLJ9": {
       "open_qty": [8],
       "oqty_abs": ["8"],
@@ -155,6 +161,8 @@
     "dateSig_full": ["Friday, 01 March 2019"],
     "dateSig_dmy": ["01 March 2019"],
     "scale": [1],
+    "scalim_mil": ["$0.5M"],
+    "scalim_pct": ["100%"],
     "CLJ9": {
       "open_qty": [0],
       "oqty_abs": ["0"],
@@ -225,6 +233,8 @@
     "dateSig_full": ["Friday, 01 March 2019"],
     "dateSig_dmy": ["01 March 2019"],
     "scale": [0.6],
+    "scalim_mil": ["$0M"],
+    "scalim_pct": ["60%"],
     "VXXB": {
       "open_qty": [-531754],
       "oqty_abs": ["531754"],
@@ -277,6 +287,8 @@
     "dateSig_full": ["Friday, 01 March 2019"],
     "dateSig_dmy": ["01 March 2019"],
     "scale": [1],
+    "scalim_mil": ["$0M"],
+    "scalim_pct": ["100%"],
     "VXXB": {
       "open_qty": [0],
       "oqty_abs": ["0"],
