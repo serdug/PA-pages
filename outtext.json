@@ -36,7 +36,10 @@
     },
     "unrealized_chr": ["13.7"],
     "equivexp_chr": ["1"],
-    "apm": ["TBA"]
+    "apm": ["TBA"],
+    "realized": [215008.9456],
+    "unrealized": [13708.553],
+    "total": [228717.4986]
   },
   "tbonds": {
     "signal": ["LONG"],
@@ -75,7 +78,10 @@
     },
     "unrealized_chr": ["-11.3"],
     "equivexp_chr": ["1"],
-    "apm": ["keep in"]
+    "apm": ["keep in"],
+    "realized": [87396.958],
+    "unrealized": [-11252.424],
+    "total": [76144.534]
   },
   "oilnf_": {
     "signal": ["LONG"],
@@ -140,7 +146,10 @@
     },
     "unrealized_chr": ["-9"],
     "equivexp_chr": ["0.455"],
-    "apm": ["TBA"]
+    "apm": ["TBA"],
+    "realized": [77072.1293],
+    "unrealized": [-9008.96],
+    "total": [68063.1693]
   },
   "oilwf_": {
     "signal": ["LONG"],
@@ -205,7 +214,10 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["OUT OF DATE"]
+    "apm": ["OUT OF DATE"],
+    "realized": [-1008581.9074],
+    "unrealized": [0],
+    "total": [-1008581.9074]
   },
   "volmf_": {
     "signal": ["SHORT"],
@@ -256,7 +268,10 @@
     },
     "unrealized_chr": ["2240.2"],
     "equivexp_chr": ["13.983"],
-    "apm": ["keep in"]
+    "apm": ["keep in"],
+    "realized": [1065693.0874],
+    "unrealized": [2240216.081],
+    "total": [3305909.1684]
   },
   "volxw2": {
     "signal": ["-"],
@@ -307,6 +322,11 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["-"]
-  }
+    "apm": ["-"],
+    "realized": [2422875.9266],
+    "unrealized": [0],
+    "total": [2422875.9266]
+  },
+  "portfolio": [2805336.8098, 2233663.25, 5039000.0598],
+  "natgas": [-54128.3298, 0, -54128.3298]
 }
