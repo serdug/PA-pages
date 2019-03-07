@@ -36,7 +36,7 @@
     },
     "unrealized_chr": ["2.5"],
     "equivexp_chr": ["1"],
-    "apm": ["TBA"],
+    "apm": ["remove"],
     "realized": [215008.9456],
     "unrealized": [2538.203],
     "total": [217547.1486]
@@ -146,7 +146,7 @@
     },
     "unrealized_chr": ["1.9"],
     "equivexp_chr": ["0.452"],
-    "apm": ["TBA"],
+    "apm": ["keep in"],
     "realized": [73804.2093],
     "unrealized": [1901.04],
     "total": [75705.2493]
