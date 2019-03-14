@@ -330,7 +330,9 @@
   "portfolio": {
     "realized": [3218679.5586],
     "unrealized": [1981573.644],
-    "total": [5200253.2026]
+    "total": [5200253.2026],
+    "px_date_full": ["Wednesday, 13 March 2019"],
+    "px_date": ["2019-03-13"]
   },
   "natgas": [-54128.3298, 0, -54128.3298]
 }
