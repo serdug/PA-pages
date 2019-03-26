@@ -9,11 +9,11 @@
     "scalim_mil": ["$5M"],
     "scalim_pct": ["100%"],
     "SPY": {
-      "open_qty": [0],
-      "oqty_abs": ["0"],
-      "position": ["-"],
-      "costPx": ["NaN"],
-      "costPx_rnd": ["-"],
+      "open_qty": [-17926],
+      "oqty_abs": ["17926"],
+      "position": ["Short"],
+      "costPx": [278.8961],
+      "costPx_rnd": ["278.9"],
       "mktpx": [
         {
           "SPY": 279.04
@@ -23,23 +23,23 @@
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
-      "exposure": [0],
-      "exposure_chr": ["0"],
-      "equivexp": [0],
-      "equivexp_chr": ["0"],
+      "exposure": [4999490.714],
+      "exposure_chr": ["4.999"],
+      "equivexp": [4999490.714],
+      "equivexp_chr": ["4.999"],
       "midvalue": ["NA"],
       "midvalue_chr": ["-"],
       "equivval": ["NA"],
       "equivval_chr": ["-"],
-      "mtmpl": [-0],
-      "unr_chr": ["0"]
+      "mtmpl": [-2580.326],
+      "unr_chr": ["-2.6"]
     },
-    "unrealized_chr": ["0"],
-    "equivexp_chr": ["0"],
+    "unrealized_chr": ["-2.6"],
+    "equivexp_chr": ["4.999"],
     "apm": ["TBA"],
-    "realized": [213299.9284],
-    "unrealized": [0],
-    "total": [213299.9284]
+    "realized": [0.0002],
+    "unrealized": [-2580.326],
+    "total": [-2580.3258]
   },
   "tbonds": {
     "signal": ["-"],
@@ -79,9 +79,9 @@
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
     "apm": ["-"],
-    "realized": [105848.3204],
+    "realized": [0],
     "unrealized": [0],
-    "total": [105848.3204]
+    "total": [0]
   },
   "oilnf_": {
     "signal": ["LONG"],
@@ -115,36 +115,36 @@
       "midvalue_chr": ["-"],
       "equivval": ["NA"],
       "equivval_chr": ["-"],
-      "mtmpl": [-0],
+      "mtmpl": [0],
       "unr_chr": ["0"]
     },
-    "unrealized_chr": ["0"],
-    "equivexp_chr": ["0"],
+    "unrealized_chr": ["-2.7"],
+    "equivexp_chr": ["2.473"],
     "apm": ["TBA"],
-    "realized": [89120.4493],
-    "unrealized": [0],
-    "total": [89120.4493],
+    "realized": [3.7289e-11],
+    "unrealized": [-2669.54],
+    "total": [-2669.54],
     "CL": {
-      "open_qty": [0],
-      "oqty_abs": ["0"],
-      "position": ["-"],
-      "costPx": ["NaN"],
-      "costPx_rnd": ["-"],
+      "open_qty": [42],
+      "oqty_abs": ["42"],
+      "position": ["Long"],
+      "costPx": [58.8836],
+      "costPx_rnd": ["58.88"],
       "mktpx": [58.82],
       "mktpx_chr": ["58.82"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
-      "exposure": [0],
-      "exposure_chr": ["0"],
-      "equivexp": [0],
-      "equivexp_chr": ["0"],
+      "exposure": [2473109.54],
+      "exposure_chr": ["2.473"],
+      "equivexp": [2473109.54],
+      "equivexp_chr": ["2.473"],
       "midvalue": ["NA"],
       "midvalue_chr": ["-"],
       "equivval": ["NA"],
       "equivval_chr": ["-"],
-      "mtmpl": [0],
-      "unr_chr": ["0"]
+      "mtmpl": [-2669.54],
+      "unr_chr": ["-2.7"]
     }
   },
   "oilwf_": {
@@ -179,15 +179,15 @@
       "midvalue_chr": ["-"],
       "equivval": ["NA"],
       "equivval_chr": ["-"],
-      "mtmpl": [-0],
+      "mtmpl": [0],
       "unr_chr": ["0"]
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
     "apm": ["-"],
-    "realized": [-1001615.6674],
+    "realized": [0],
     "unrealized": [0],
-    "total": [-1001615.6674],
+    "total": [0],
     "CL": {
       "open_qty": [0],
       "oqty_abs": ["0"],
@@ -224,7 +224,7 @@
       "open_qty": [0],
       "oqty_abs": ["0"],
       "position": ["-"],
-      "costPx": ["Inf"],
+      "costPx": ["NaN"],
       "costPx_rnd": ["-"],
       "mktpx": [
         {
@@ -239,9 +239,9 @@
       ],
       "midpx_chr": ["32.22"],
       "equivMult": [1],
-      "exposure": [0.005],
+      "exposure": [0],
       "exposure_chr": ["0"],
-      "equivexp": [0.005],
+      "equivexp": [0],
       "equivexp_chr": ["0"],
       "midvalue": [
         {
@@ -255,15 +255,15 @@
         }
       ],
       "equivval_chr": ["0"],
-      "mtmpl": [0.005],
+      "mtmpl": [0],
       "unr_chr": ["0"]
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
     "apm": ["-"],
-    "realized": [3709297.4984],
-    "unrealized": [0.005],
-    "total": [3709297.5034]
+    "realized": [0],
+    "unrealized": [0],
+    "total": [0]
   },
   "volxw2": {
     "signal": ["-"],
@@ -315,16 +315,15 @@
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
     "apm": ["-"],
-    "realized": [2422875.9266],
+    "realized": [0],
     "unrealized": [0],
-    "total": [2422875.9266]
+    "total": [0]
   },
   "portfolio": {
-    "realized": [5484698.126],
-    "unrealized": [0.005],
-    "total": [5484698.131],
+    "realized": [0.0002],
+    "unrealized": [-5249.866],
+    "total": [-5249.8658],
     "px_date_full": ["Monday, 25 March 2019"],
     "px_date": ["2019-03-25"]
-  },
-  "natgas": [-54128.3298, 0, -54128.3298]
+  }
 }
