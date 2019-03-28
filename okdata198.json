@@ -38,7 +38,7 @@
     "equivexp_chr": ["4.999"],
     "apm": ["TBA"],
     "limit": [5000000],
-    "realized": [0.0002],
+    "realized": [0],
     "unrealized": [-13515.186],
     "total": [-13515.1858]
   },
@@ -124,7 +124,7 @@
     "equivexp_chr": ["2.473"],
     "apm": ["TBA"],
     "limit": [2500000],
-    "realized": [3.7289e-11],
+    "realized": [0],
     "unrealized": [22110.46],
     "total": [22110.46],
     "CL": {
@@ -326,9 +326,9 @@
     "total": [0]
   },
   "portfolio": {
-    "realized": [0.0002],
+    "realized": [0],
     "unrealized": [8595.274],
-    "total": [8595.2742],
+    "total": [8595.274],
     "px_date_full": ["Wednesday, 27 March 2019"],
     "px_date": ["2019-03-27"],
     "limit": [20000000]
