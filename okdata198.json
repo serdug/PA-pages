@@ -1,6 +1,6 @@
 {
   "equity": {
-    "signal": ["-"],
+    "signal": ["LONG"],
     "dateSig": ["2019-03-28"],
     "dateSig_full": ["Thursday, 28 March 2019"],
     "dateSig_dmy": ["28 March 2019"],
@@ -79,7 +79,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["TBA"],
+    "apm": ["add"],
     "limit": [5000000],
     "realized": [0],
     "unrealized": [0],
