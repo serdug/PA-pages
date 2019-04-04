@@ -1,6 +1,6 @@
 {
   "equity": {
-    "signal": ["SHORT"],
+    "signal": ["LONG"],
     "dateSig": ["2019-04-04"],
     "dateSig_full": ["Thursday, 04 April 2019"],
     "dateSig_dmy": ["04 April 2019"],
@@ -43,7 +43,7 @@
     "total": [102426.4248]
   },
   "tbonds": {
-    "signal": ["LONG"],
+    "signal": ["SHORT"],
     "dateSig": ["2019-04-04"],
     "dateSig_full": ["Thursday, 04 April 2019"],
     "dateSig_dmy": ["04 April 2019"],
@@ -79,7 +79,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["TBA"],
+    "apm": ["keep in"],
     "limit": [5000000],
     "realized": [109690.27],
     "unrealized": [0],
