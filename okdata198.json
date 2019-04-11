@@ -40,7 +40,8 @@
     "limit": [5500000],
     "realized": [102426.42],
     "unrealized": [0],
-    "total": [102426.4248]
+    "total": [102426.4248],
+    "rzdpct": [0.0205]
   },
   "tbonds": {
     "signal": ["LONG"],
@@ -83,7 +84,8 @@
     "limit": [5500000],
     "realized": [109690.27],
     "unrealized": [0],
-    "total": [109690.2652]
+    "total": [109690.2652],
+    "rzdpct": [0.0219]
   },
   "oilnf_": {
     "signal": ["LONG"],
@@ -127,6 +129,7 @@
     "realized": [162230.92],
     "unrealized": [0],
     "total": [162230.92],
+    "rzdpct": [0.0649],
     "CL": {
       "open_qty": [0],
       "oqty_abs": ["0"],
@@ -192,6 +195,7 @@
     "realized": [0],
     "unrealized": [0],
     "total": [0],
+    "rzdpct": [0],
     "CL": {
       "open_qty": [0],
       "oqty_abs": ["0"],
@@ -268,7 +272,8 @@
     "limit": [2750000],
     "realized": [0],
     "unrealized": [0],
-    "total": [0]
+    "total": [0],
+    "rzdpct": [0]
   },
   "volxw2": {
     "signal": ["-"],
@@ -323,7 +328,8 @@
     "limit": [2750000],
     "realized": [0],
     "unrealized": [0],
-    "total": [0]
+    "total": [0],
+    "rzdpct": [0]
   },
   "portfolio": {
     "realized": [374347.61],
