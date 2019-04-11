@@ -1,6 +1,6 @@
 {
   "equity": {
-    "signal": ["SHORT"],
+    "signal": ["LONG"],
     "dateSig": ["2019-04-11"],
     "dateSig_full": ["Thursday, 11 April 2019"],
     "dateSig_dmy": ["11 April 2019"],
@@ -44,7 +44,7 @@
     "rzdpct": [0.0205]
   },
   "tbonds": {
-    "signal": ["LONG"],
+    "signal": ["SHORT"],
     "dateSig": ["2019-04-11"],
     "dateSig_full": ["Thursday, 11 April 2019"],
     "dateSig_dmy": ["11 April 2019"],
@@ -80,7 +80,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["TBA"],
+    "apm": ["keep in"],
     "limit": [5500000],
     "realized": [109690.27],
     "unrealized": [0],
@@ -268,7 +268,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["TBA"],
+    "apm": ["add"],
     "limit": [2750000],
     "realized": [0],
     "unrealized": [0],
