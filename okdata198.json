@@ -1,6 +1,6 @@
 {
   "equity": {
-    "signal": ["SHORT"],
+    "signal": ["-"],
     "dateSig": ["2019-05-02"],
     "dateSig_full": ["Thursday, 02 May 2019"],
     "dateSig_dmy": ["02 May 2019"],
