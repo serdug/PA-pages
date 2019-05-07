@@ -229,9 +229,9 @@
     "scalim_mil": ["$2.2M"],
     "scalim_pct": ["80%"],
     "VXXB": {
-      "open_qty": [89445],
+      "open_qty": [-89445],
       "oqty_abs": ["89445"],
-      "position": ["Long"],
+      "position": ["Short"],
       "costPx": [27.6645],
       "costPx_rnd": ["27.66"],
       "mktpx": [
@@ -263,16 +263,16 @@
         }
       ],
       "equivval_chr": ["2.454"],
-      "mtmpl": [-71960.912],
-      "unr_chr": ["-72"]
+      "mtmpl": [71960.912],
+      "unr_chr": ["72"]
     },
-    "unrealized_chr": ["-72"],
+    "unrealized_chr": ["72"],
     "equivexp_chr": ["2.474"],
     "apm": ["TBA"],
     "limit": [2750000],
     "realized": [65233.72],
-    "unrealized": [-71960.912],
-    "total": [-6727.1958],
+    "unrealized": [71960.912],
+    "total": [137194.6282],
     "rzdpct": [0.0237]
   },
   "volxw2": {
@@ -333,8 +333,8 @@
   },
   "portfolio": {
     "realized": [273813.61],
-    "unrealized": [-31870.569],
-    "total": [241943.041],
+    "unrealized": [112051.255],
+    "total": [385864.865],
     "rzdpct": [0.0141],
     "px_date_full": ["Monday, 06 May 2019"],
     "px_date": ["2019-05-06"],
