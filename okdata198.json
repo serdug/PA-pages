@@ -122,20 +122,20 @@
       "mtmpl": [0],
       "unr_chr": ["0"]
     },
-    "unrealized_chr": ["-5319.5"],
+    "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
     "apm": ["TBA"],
     "limit": [2750000],
     "realized": [-223488.2],
-    "unrealized": [-5319460],
-    "total": [-5542948.197],
+    "unrealized": [0],
+    "total": [-223488.197],
     "rzdpct": [-0.0754],
     "CL": {
-      "open_qty": [-94],
-      "oqty_abs": ["94"],
-      "position": ["Short"],
-      "costPx": [0],
-      "costPx_rnd": ["0"],
+      "open_qty": [0],
+      "oqty_abs": ["0"],
+      "position": ["-"],
+      "costPx": ["NaN"],
+      "costPx_rnd": ["-"],
       "mktpx": [56.59],
       "mktpx_chr": ["56.59"],
       "midpx": [null],
@@ -149,8 +149,8 @@
       "midvalue_chr": ["-"],
       "equivval": ["NA"],
       "equivval_chr": ["-"],
-      "mtmpl": [-5319460],
-      "unr_chr": ["-5319.5"]
+      "mtmpl": [0],
+      "unr_chr": ["0"]
     }
   },
   "oilwf_": {
@@ -188,20 +188,20 @@
       "mtmpl": [0],
       "unr_chr": ["0"]
     },
-    "unrealized_chr": ["-5319.5"],
+    "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
     "apm": ["TBA"],
     "limit": [2750000],
     "realized": [-119536.1],
-    "unrealized": [-5319460],
-    "total": [-5438996.103],
+    "unrealized": [0],
+    "total": [-119536.103],
     "rzdpct": [-0.0435],
     "CL": {
-      "open_qty": [-94],
-      "oqty_abs": ["94"],
-      "position": ["Short"],
-      "costPx": [0],
-      "costPx_rnd": ["0"],
+      "open_qty": [0],
+      "oqty_abs": ["0"],
+      "position": ["-"],
+      "costPx": ["NaN"],
+      "costPx_rnd": ["-"],
       "mktpx": [56.59],
       "mktpx_chr": ["56.59"],
       "midpx": [null],
@@ -215,8 +215,8 @@
       "midvalue_chr": ["-"],
       "equivval": ["NA"],
       "equivval_chr": ["-"],
-      "mtmpl": [-5319460],
-      "unr_chr": ["-5319.5"]
+      "mtmpl": [0],
+      "unr_chr": ["0"]
     }
   },
   "volmf_": {
@@ -333,8 +333,8 @@
   },
   "portfolio": {
     "realized": [137422.6],
-    "unrealized": [-10879949.016],
-    "total": [-10742526.416],
+    "unrealized": [-241029.016],
+    "total": [-103606.416],
     "rzdpct": [0.0079],
     "px_date_full": ["Thursday, 30 May 2019"],
     "px_date": ["2019-05-30"],
