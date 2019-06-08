@@ -9,11 +9,11 @@
     "scalim_mil": ["$5.5M"],
     "scalim_pct": ["100%"],
     "SPY": {
-      "open_qty": [-19401],
-      "oqty_abs": ["19401"],
-      "position": ["Short"],
-      "costPx": [283.4686],
-      "costPx_rnd": ["283.47"],
+      "open_qty": [0],
+      "oqty_abs": ["0"],
+      "position": ["-"],
+      "costPx": ["NaN"],
+      "costPx_rnd": ["-"],
       "mktpx": [
         {
           "SPY": 287.65
@@ -23,25 +23,25 @@
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
-      "exposure": [5499575.166],
-      "exposure_chr": ["5.5"],
-      "equivexp": [5499575.166],
-      "equivexp_chr": ["5.5"],
+      "exposure": [0],
+      "exposure_chr": ["0"],
+      "equivexp": [0],
+      "equivexp_chr": ["0"],
       "midvalue": ["NA"],
       "midvalue_chr": ["-"],
       "equivval": ["NA"],
       "equivval_chr": ["-"],
-      "mtmpl": [-81122.484],
-      "unr_chr": ["-81.1"]
+      "mtmpl": [-0],
+      "unr_chr": ["0"]
     },
-    "unrealized_chr": ["-81.1"],
-    "equivexp_chr": ["5.5"],
+    "unrealized_chr": ["0"],
+    "equivexp_chr": ["0"],
     "apm": ["TBA"],
     "limit": [5500000],
-    "realized": [199851.16],
-    "unrealized": [-81122.484],
-    "total": [118728.6788],
-    "rzdpct": [0.0429]
+    "realized": [110116.03],
+    "unrealized": [0],
+    "total": [110116.0322],
+    "rzdpct": [0.0102]
   },
   "tbonds": {
     "signal": ["LONG"],
@@ -332,10 +332,10 @@
     "rzdpct": [0.0339]
   },
   "portfolio": {
-    "realized": [-14969.79],
-    "unrealized": [-7686.162],
-    "total": [-22655.952],
-    "rzdpct": [0.001],
+    "realized": [-104704.92],
+    "unrealized": [73436.322],
+    "total": [-31268.598],
+    "rzdpct": [-0.0031],
     "px_date_full": ["Friday, 07 June 2019"],
     "px_date": ["2019-06-07"],
     "limit": [22000000]
