@@ -229,8 +229,8 @@
     "scalim_mil": ["$2.2M"],
     "scalim_pct": ["80%"],
     "VXXB": {
-      "open_qty": [-91419],
-      "oqty_abs": ["91419"],
+      "open_qty": [-81275],
+      "oqty_abs": ["81275"],
       "position": ["Short"],
       "costPx": [27.0686],
       "costPx_rnd": ["27.07"],
@@ -247,32 +247,32 @@
       ],
       "midpx_chr": ["27.1208"],
       "equivMult": [1],
-      "exposure": [2474582.564],
-      "exposure_chr": ["2.475"],
-      "equivexp": [2474582.564],
-      "equivexp_chr": ["2.475"],
+      "exposure": [2199998.883],
+      "exposure_chr": ["2.2"],
+      "equivexp": [2199998.883],
+      "equivexp_chr": ["2.2"],
       "midvalue": [
         {
-          "VXXB.mid": 2479351.8443
+          "VXXB.mid": 2204238.9563
         }
       ],
-      "midvalue_chr": ["2.479"],
+      "midvalue_chr": ["2.204"],
       "equivval": [
         {
-          "VXXB.mid": 2479351.8443
+          "VXXB.mid": 2204238.9563
         }
       ],
-      "equivval_chr": ["2.479"],
-      "mtmpl": [3526.994],
-      "unr_chr": ["3.5"]
+      "equivval_chr": ["2.204"],
+      "mtmpl": [3135.633],
+      "unr_chr": ["3.1"]
     },
-    "unrealized_chr": ["3.5"],
-    "equivexp_chr": ["2.475"],
+    "unrealized_chr": ["3.1"],
+    "equivexp_chr": ["2.2"],
     "apm": ["keep in"],
     "limit": [2750000],
     "realized": [-164793.04],
-    "unrealized": [3526.994],
-    "total": [-161266.0439],
+    "unrealized": [3135.633],
+    "total": [-161657.4052],
     "rzdpct": [-0.0599]
   },
   "volxw2": {
@@ -285,8 +285,8 @@
     "scalim_mil": ["$2.75M"],
     "scalim_pct": ["100%"],
     "VXXB": {
-      "open_qty": [-91418],
-      "oqty_abs": ["91418"],
+      "open_qty": [-101562],
+      "oqty_abs": ["101562"],
       "position": ["Short"],
       "costPx": [27.0686],
       "costPx_rnd": ["27.07"],
@@ -303,32 +303,32 @@
       ],
       "midpx_chr": ["27.1208"],
       "equivMult": [1],
-      "exposure": [2474555.495],
-      "exposure_chr": ["2.475"],
-      "equivexp": [2474555.495],
-      "equivexp_chr": ["2.475"],
+      "exposure": [2749139.176],
+      "exposure_chr": ["2.749"],
+      "equivexp": [2749139.176],
+      "equivexp_chr": ["2.749"],
       "midvalue": [
         {
-          "VXXB.mid": 2479324.7235
+          "VXXB.mid": 2754437.6115
         }
       ],
-      "midvalue_chr": ["2.479"],
+      "midvalue_chr": ["2.754"],
       "equivval": [
         {
-          "VXXB.mid": 2479324.7235
+          "VXXB.mid": 2754437.6115
         }
       ],
-      "equivval_chr": ["2.479"],
-      "mtmpl": [3526.955],
-      "unr_chr": ["3.5"]
+      "equivval_chr": ["2.754"],
+      "mtmpl": [3918.316],
+      "unr_chr": ["3.9"]
     },
-    "unrealized_chr": ["3.5"],
-    "equivexp_chr": ["2.475"],
+    "unrealized_chr": ["3.9"],
+    "equivexp_chr": ["2.749"],
     "apm": ["keep in"],
     "limit": [2750000],
     "realized": [93328.96],
-    "unrealized": [3526.955],
-    "total": [96855.9176],
+    "unrealized": [3918.316],
+    "total": [97247.2779],
     "rzdpct": [0.0339]
   },
   "portfolio": {
