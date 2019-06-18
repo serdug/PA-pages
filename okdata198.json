@@ -229,9 +229,9 @@
     "scalim_mil": ["$2.2M"],
     "scalim_pct": ["80%"],
     "VXXB": {
-      "open_qty": [91419],
+      "open_qty": [-91419],
       "oqty_abs": ["91419"],
-      "position": ["Long"],
+      "position": ["Short"],
       "costPx": [27.0686],
       "costPx_rnd": ["27.07"],
       "mktpx": [
@@ -263,16 +263,16 @@
         }
       ],
       "equivval_chr": ["2.479"],
-      "mtmpl": [4945638.134],
-      "unr_chr": ["4945.6"]
+      "mtmpl": [3526.994],
+      "unr_chr": ["3.5"]
     },
-    "unrealized_chr": ["4945.6"],
+    "unrealized_chr": ["3.5"],
     "equivexp_chr": ["2.475"],
     "apm": ["keep in"],
     "limit": [2750000],
     "realized": [-164793.04],
-    "unrealized": [4945638.134],
-    "total": [4780845.0961],
+    "unrealized": [3526.994],
+    "total": [-161266.0439],
     "rzdpct": [-0.0599]
   },
   "volxw2": {
@@ -285,9 +285,9 @@
     "scalim_mil": ["$2.75M"],
     "scalim_pct": ["100%"],
     "VXXB": {
-      "open_qty": [91418],
+      "open_qty": [-91418],
       "oqty_abs": ["91418"],
-      "position": ["Long"],
+      "position": ["Short"],
       "costPx": [27.0686],
       "costPx_rnd": ["27.07"],
       "mktpx": [
@@ -319,22 +319,22 @@
         }
       ],
       "equivval_chr": ["2.479"],
-      "mtmpl": [4945584.035],
-      "unr_chr": ["4945.6"]
+      "mtmpl": [3526.955],
+      "unr_chr": ["3.5"]
     },
-    "unrealized_chr": ["4945.6"],
+    "unrealized_chr": ["3.5"],
     "equivexp_chr": ["2.475"],
     "apm": ["keep in"],
     "limit": [2750000],
     "realized": [93328.96],
-    "unrealized": [4945584.035],
-    "total": [5038912.9976],
+    "unrealized": [3526.955],
+    "total": [96855.9176],
     "rzdpct": [0.0339]
   },
   "portfolio": {
     "realized": [110519.22],
-    "unrealized": [9956218.883],
-    "total": [10066738.103],
+    "unrealized": [72050.663],
+    "total": [182569.883],
     "rzdpct": [0.0067],
     "px_date_full": ["Monday, 17 June 2019"],
     "px_date": ["2019-06-17"],
