@@ -36,7 +36,7 @@
     },
     "unrealized_chr": ["72.4"],
     "equivexp_chr": ["7"],
-    "apm": ["keep in"],
+    "apm": ["remove"],
     "limit": [7000000],
     "realized": [0],
     "unrealized": [72438.03],
