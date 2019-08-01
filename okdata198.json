@@ -232,8 +232,8 @@
       "open_qty": [-96617],
       "oqty_abs": ["96617"],
       "position": ["Short"],
-      "costPx": [21.5687],
-      "costPx_rnd": ["21.57"],
+      "costPx": [21.7525],
+      "costPx_rnd": ["21.75"],
       "mktpx": [
         {
           "VXX": 23.59
@@ -247,10 +247,10 @@
       ],
       "midpx_chr": ["23.135"],
       "equivMult": [1],
-      "exposure": [2083902.62],
-      "exposure_chr": ["2.084"],
-      "equivexp": [2083902.62],
-      "equivexp_chr": ["2.084"],
+      "exposure": [2101663.752],
+      "exposure_chr": ["2.102"],
+      "equivexp": [2101663.752],
+      "equivexp_chr": ["2.102"],
       "midvalue": [
         {
           "VXX.mid": 2235234.295
@@ -263,17 +263,17 @@
         }
       ],
       "equivval_chr": ["2.235"],
-      "mtmpl": [-195292.41],
-      "unr_chr": ["-195.3"]
+      "mtmpl": [-177531.278],
+      "unr_chr": ["-177.5"]
     },
-    "unrealized_chr": ["-195.3"],
-    "equivexp_chr": ["2.084"],
+    "unrealized_chr": ["-177.5"],
+    "equivexp_chr": ["2.102"],
     "apm": ["buy to close"],
     "limit": [3500000],
-    "realized": [-184355.36],
-    "unrealized": [-195292.41],
-    "total": [-379647.7693],
-    "rzdpct": [-0.0635]
+    "realized": [-202116.49],
+    "unrealized": [-177531.278],
+    "total": [-379647.7687],
+    "rzdpct": [-0.0686]
   },
   "volxw2": {
     "signal": ["SHORT"],
@@ -332,10 +332,10 @@
     "rzdpct": [0.1267]
   },
   "portfolio": {
-    "realized": [151228.03],
-    "unrealized": [-13539.777],
-    "total": [137688.253],
-    "rzdpct": [0.0152],
+    "realized": [133466.9],
+    "unrealized": [4221.355],
+    "total": [137688.255],
+    "rzdpct": [0.0146],
     "px_date_full": ["Wednesday, 31 July 2019"],
     "px_date": ["2019-07-31"],
     "limit": [28000000]
