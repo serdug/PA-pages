@@ -80,7 +80,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["sell to open"],
+    "apm": ["sell to open (flip over)"],
     "limit": [7000000],
     "realized": [532742.12],
     "unrealized": [0],
