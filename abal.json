@@ -6,17 +6,17 @@
     "dateSig": ["2019-08-09"],
     "dateSig_full": ["Friday, 09 August 2019"],
     "dateSig_dmy": ["09 August 2019"],
-    // "SPY": {
-      // "open_qty": [0],
-      // "oqty_abs": ["0"],
-      // "position": ["-"],
-      // "costPx": ["NaN"],
-      // "costPx_rnd": ["-"],
-      // "mktpx": [
-        // {
-          // "SPY": 293.62
-        // }
-      // ],
+    "SPY": {
+      "open_qty": [0],
+      "oqty_abs": ["0"],
+      "position": ["-"],
+      "costPx": ["NaN"],
+      "costPx_rnd": ["-"],
+      "mktpx": [
+        {
+          "SPY": 293.62
+        }
+      ],
     "scale": [1]
   }
 }
