@@ -21,7 +21,7 @@
     "count_pred_up_50": [27],
     "prec_down_pct_250": [42],
     "prec_down_pct_100": [41],
-    "prec_down_pct_250.1": [39],
+    "prec_down_pct_50": [39],
     "true_pred_down_250": [47],
     "count_pred_down_250": [112],
     "true_pred_down_100": [17],
