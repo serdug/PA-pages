@@ -1,0 +1,11 @@
+{
+  "abiesalba": {
+    "sig": ["Down"],
+    "reg": ["LONG"],
+    "pos": ["hold"],
+    "dateSig": ["2019-08-09"],
+    "dateSig_full": ["Friday, 09 August 2019"],
+    "dateSig_dmy": ["09 August 2019"],
+    "scale": [1]
+  }
+}
