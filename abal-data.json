@@ -3,7 +3,7 @@
     "sig": ["Down"],
     "reg": ["LONG"],
     "pos": ["hold"],
-    "sig_expl": ["which is the algoritmically predicted SPY (SPDR S&amp;P 500 ETF) close-to-close price tendency on the fifth trade day as of market close on"],
+    "sig_expl": ["The algoritmically predicted SPY (SPDR S&amp;P 500 ETF) close-to-close price tendency on the fifth trade day as of market close on"],
     "dateSig": ["2019-08-09"],
     "dateSig_full": ["Friday, 09 August 2019"],
     "dateSig_dmy": ["09 August 2019"],
