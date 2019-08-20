@@ -124,7 +124,7 @@
     },
     "unrealized_chr": ["157.6"],
     "equivexp_chr": ["2.481"],
-    "apm": ["TBA"],
+    "apm": ["hold"],
     "limit": [2500000],
     "realized": [-163835.03],
     "unrealized": [157598.61],
