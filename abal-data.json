@@ -1,7 +1,7 @@
 {
   "abiesalba": {
     "sig": ["Down"],
-    "reg": ["UP"],
+    "reg": ["LONG"],
     "pos": ["sell to close"],
     "sig_expl": ["The algoritmically predicted SPY (SPDR S&amp;P 500 ETF) close-to-close price tendency on the fifth trade day is"],
     "dateSig": ["2019-08-20"],
