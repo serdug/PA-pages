@@ -48,9 +48,9 @@
     "dateSig": ["2019-08-22"],
     "dateSig_full": ["Thursday, 22 August 2019"],
     "dateSig_dmy": ["22 August 2019"],
-    "lim_mil": ["$7M"],
+    "lim_mil": ["$5M"],
     "scale": [1],
-    "scalim_mil": ["$7M"],
+    "scalim_mil": ["$5M"],
     "scalim_pct": ["100%"],
     "TLT": {
       "open_qty": [-50721],
@@ -81,7 +81,7 @@
     "unrealized_chr": ["-272.5"],
     "equivexp_chr": ["7.06"],
     "apm": ["flip over"],
-    "limit": [7000000],
+    "limit": [5000000],
     "realized": [532742.12],
     "unrealized": [-272521.463],
     "total": [260220.6593],
@@ -338,6 +338,6 @@
     "rzdpct": [0.0309],
     "px_date_full": ["Wednesday, 21 August 2019"],
     "px_date": ["2019-08-21"],
-    "limit": [24000000]
+    "limit": [22000000]
   }
 }
