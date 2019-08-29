@@ -324,7 +324,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["-"],
+    "apm": ["sell to open"],
     "limit": [3500000],
     "realized": [348458.96],
     "unrealized": [0],
