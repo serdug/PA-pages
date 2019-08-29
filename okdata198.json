@@ -229,6 +229,62 @@
     "scalim_mil": ["$2.1M"],
     "scalim_pct": ["60%"],
     "VXX": {
+      "open_qty": [0],
+      "oqty_abs": ["0"],
+      "position": ["-"],
+      "costPx": ["NaN"],
+      "costPx_rnd": ["-"],
+      "mktpx": [
+        {
+          "VXX": 28.02
+        }
+      ],
+      "mktpx_chr": ["28.02"],
+      "midpx": [
+        {
+          "VXX.mid": 28.875
+        }
+      ],
+      "midpx_chr": ["28.875"],
+      "equivMult": [1],
+      "exposure": [0],
+      "exposure_chr": ["0"],
+      "equivexp": [0],
+      "equivexp_chr": ["0"],
+      "midvalue": [
+        {
+          "VXX.mid": 0
+        }
+      ],
+      "midvalue_chr": ["0"],
+      "equivval": [
+        {
+          "VXX.mid": 0
+        }
+      ],
+      "equivval_chr": ["0"],
+      "mtmpl": [-0],
+      "unr_chr": ["0"]
+    },
+    "unrealized_chr": ["0"],
+    "equivexp_chr": ["0"],
+    "apm": ["-"],
+    "limit": [3500000],
+    "realized": [-359910.51],
+    "unrealized": [0],
+    "total": [-359910.5057],
+    "rzdpct": [-0.1137]
+  },
+  "volxw2": {
+    "signal": ["SHORT"],
+    "dateSig": ["2019-08-29"],
+    "dateSig_full": ["Thursday, 29 August 2019"],
+    "dateSig_dmy": ["29 August 2019"],
+    "lim_mil": ["$3.5M"],
+    "scale": [0.8],
+    "scalim_mil": ["$2.8M"],
+    "scalim_pct": ["80%"],
+    "VXX": {
       "open_qty": [-145399],
       "oqty_abs": ["145399"],
       "position": ["Short"],
@@ -268,67 +324,11 @@
     },
     "unrealized_chr": ["-574.9"],
     "equivexp_chr": ["3.499"],
-    "apm": ["-"],
-    "limit": [3500000],
-    "realized": [-359910.51],
-    "unrealized": [-574905.342],
-    "total": [-934815.848],
-    "rzdpct": [-0.1137]
-  },
-  "volxw2": {
-    "signal": ["SHORT"],
-    "dateSig": ["2019-08-29"],
-    "dateSig_full": ["Thursday, 29 August 2019"],
-    "dateSig_dmy": ["29 August 2019"],
-    "lim_mil": ["$3.5M"],
-    "scale": [0.8],
-    "scalim_mil": ["$2.8M"],
-    "scalim_pct": ["80%"],
-    "VXX": {
-      "open_qty": [0],
-      "oqty_abs": ["0"],
-      "position": ["-"],
-      "costPx": ["NaN"],
-      "costPx_rnd": ["-"],
-      "mktpx": [
-        {
-          "VXX": 28.02
-        }
-      ],
-      "mktpx_chr": ["28.02"],
-      "midpx": [
-        {
-          "VXX.mid": 28.875
-        }
-      ],
-      "midpx_chr": ["28.875"],
-      "equivMult": [1],
-      "exposure": [0],
-      "exposure_chr": ["0"],
-      "equivexp": [0],
-      "equivexp_chr": ["0"],
-      "midvalue": [
-        {
-          "VXX.mid": 0
-        }
-      ],
-      "midvalue_chr": ["0"],
-      "equivval": [
-        {
-          "VXX.mid": 0
-        }
-      ],
-      "equivval_chr": ["0"],
-      "mtmpl": [0],
-      "unr_chr": ["0"]
-    },
-    "unrealized_chr": ["0"],
-    "equivexp_chr": ["0"],
     "apm": ["sell to open"],
     "limit": [3500000],
     "realized": [348458.96],
-    "unrealized": [0],
-    "total": [348458.9579],
+    "unrealized": [-574905.342],
+    "total": [-226446.3845],
     "rzdpct": [0.1267]
   },
   "portfolio": {
