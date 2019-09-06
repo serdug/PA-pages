@@ -190,7 +190,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["TBA"],
+    "apm": ["-"],
     "limit": [2500000],
     "realized": [-285333.92],
     "unrealized": [0],
