@@ -12,7 +12,7 @@
       "open_qty": [14983],
       "oqty_abs": ["14983"],
       "position": ["Long"],
-      "costPx": [297.9154],
+      "costPx": [297.9153],
       "costPx_rnd": ["297.92"],
       "mktpx": [
         {
@@ -23,24 +23,24 @@
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
-      "exposure": [4463666.262],
+      "exposure": [4463664.406],
       "exposure_chr": ["4.464"],
-      "equivexp": [4463666.262],
+      "equivexp": [4463664.406],
       "equivexp_chr": ["4.464"],
       "midvalue": ["NA"],
       "midvalue_chr": ["-"],
       "equivval": ["NA"],
       "equivval_chr": ["-"],
-      "mtmpl": [47565.208],
+      "mtmpl": [47567.064],
       "unr_chr": ["47.6"]
     },
     "unrealized_chr": ["47.6"],
     "equivexp_chr": ["4.464"],
     "apm": ["TBA"],
     "limit": [5000000],
-    "realized": [133588.99],
-    "unrealized": [47565.208],
-    "total": [181154.1976],
+    "realized": [133587.13],
+    "unrealized": [47567.064],
+    "total": [181154.198],
     "rzdpct": [0.0253]
   },
   "tbonds": {
@@ -332,9 +332,9 @@
     "rzdpct": [0.129]
   },
   "portfolio": {
-    "realized": [-192923.79],
-    "unrealized": [-111525.118],
-    "total": [-304448.908],
+    "realized": [-192925.64],
+    "unrealized": [-111523.262],
+    "total": [-304448.902],
     "rzdpct": [-0.0009],
     "px_date_full": ["Friday, 13 September 2019"],
     "px_date": ["2019-09-13"],
