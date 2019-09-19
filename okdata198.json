@@ -1,9 +1,9 @@
 {
   "equity": {
     "signal": ["LONG"],
-    "dateSig": ["2019-09-18"],
-    "dateSig_full": ["Wednesday, 18 September 2019"],
-    "dateSig_dmy": ["18 September 2019"],
+    "dateSig": ["2019-09-19"],
+    "dateSig_full": ["Thursday, 19 September 2019"],
+    "dateSig_dmy": ["19 September 2019"],
     "lim_mil": ["$5M"],
     "scale": [1],
     "scalim_mil": ["$5M"],
@@ -16,10 +16,10 @@
       "costPx_rnd": ["-"],
       "mktpx": [
         {
-          "SPY": 300.92
+          "SPY": 301.1
         }
       ],
-      "mktpx_chr": ["300.92"],
+      "mktpx_chr": ["301.1"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -36,7 +36,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["hold"],
+    "apm": ["TBA"],
     "limit": [5000000],
     "realized": [167705.21],
     "unrealized": [0],
@@ -44,10 +44,10 @@
     "rzdpct": [0.0321]
   },
   "tbonds": {
-    "signal": ["LONG"],
-    "dateSig": ["2019-09-18"],
-    "dateSig_full": ["Wednesday, 18 September 2019"],
-    "dateSig_dmy": ["18 September 2019"],
+    "signal": ["-"],
+    "dateSig": ["2019-09-19"],
+    "dateSig_full": ["Thursday, 19 September 2019"],
+    "dateSig_dmy": ["19 September 2019"],
     "lim_mil": ["$5M"],
     "scale": [1],
     "scalim_mil": ["$5M"],
@@ -60,10 +60,10 @@
       "costPx_rnd": ["144.76"],
       "mktpx": [
         {
-          "TLT": 139.03
+          "TLT": 139.62
         }
       ],
-      "mktpx_chr": ["139.03"],
+      "mktpx_chr": ["139.62"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -75,23 +75,23 @@
       "midvalue_chr": ["-"],
       "equivval": ["NA"],
       "equivval_chr": ["-"],
-      "mtmpl": [-198015.438],
-      "unr_chr": ["-198"]
+      "mtmpl": [-177637.428],
+      "unr_chr": ["-177.6"]
     },
-    "unrealized_chr": ["-198"],
+    "unrealized_chr": ["-177.6"],
     "equivexp_chr": ["5"],
-    "apm": ["hold"],
+    "apm": ["TBA"],
     "limit": [5000000],
     "realized": [443321.67],
-    "unrealized": [-198015.438],
-    "total": [245306.2362],
+    "unrealized": [-177637.428],
+    "total": [265684.2462],
     "rzdpct": [0.0835]
   },
   "oilnf_": {
     "signal": ["LONG"],
-    "dateSig": ["2019-09-18"],
-    "dateSig_full": ["Wednesday, 18 September 2019"],
-    "dateSig_dmy": ["18 September 2019"],
+    "dateSig": ["2019-09-19"],
+    "dateSig_full": ["Thursday, 19 September 2019"],
+    "dateSig_dmy": ["19 September 2019"],
     "lim_mil": ["$0M"],
     "scale": [1],
     "scalim_mil": ["$0M"],
@@ -104,10 +104,10 @@
       "costPx_rnd": ["-"],
       "mktpx": [
         {
-          "USO": 12.29
+          "USO": 12.1
         }
       ],
-      "mktpx_chr": ["12.29"],
+      "mktpx_chr": ["12.1"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -124,7 +124,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["hold"],
+    "apm": ["TBA"],
     "limit": [0],
     "realized": [-423643.2],
     "unrealized": [0],
@@ -136,8 +136,8 @@
       "position": ["-"],
       "costPx": ["NaN"],
       "costPx_rnd": ["-"],
-      "mktpx": [59.34],
-      "mktpx_chr": ["59.34"],
+      "mktpx": [58.11],
+      "mktpx_chr": ["58.11"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -155,9 +155,9 @@
   },
   "oilwf_": {
     "signal": ["-"],
-    "dateSig": ["2019-09-18"],
-    "dateSig_full": ["Wednesday, 18 September 2019"],
-    "dateSig_dmy": ["18 September 2019"],
+    "dateSig": ["2019-09-19"],
+    "dateSig_full": ["Thursday, 19 September 2019"],
+    "dateSig_dmy": ["19 September 2019"],
     "lim_mil": ["$0M"],
     "scale": [1],
     "scalim_mil": ["$0M"],
@@ -170,10 +170,10 @@
       "costPx_rnd": ["-"],
       "mktpx": [
         {
-          "USO": 12.29
+          "USO": 12.1
         }
       ],
-      "mktpx_chr": ["12.29"],
+      "mktpx_chr": ["12.1"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -202,8 +202,8 @@
       "position": ["-"],
       "costPx": ["NaN"],
       "costPx_rnd": ["-"],
-      "mktpx": [59.34],
-      "mktpx_chr": ["59.34"],
+      "mktpx": [58.11],
+      "mktpx_chr": ["58.11"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -221,9 +221,9 @@
   },
   "volmf_": {
     "signal": ["SHORT"],
-    "dateSig": ["2019-09-18"],
-    "dateSig_full": ["Wednesday, 18 September 2019"],
-    "dateSig_dmy": ["18 September 2019"],
+    "dateSig": ["2019-09-19"],
+    "dateSig_full": ["Thursday, 19 September 2019"],
+    "dateSig_dmy": ["19 September 2019"],
     "lim_mil": ["$3.5M"],
     "scale": [0.6],
     "scalim_mil": ["$2.1M"],
@@ -236,16 +236,16 @@
       "costPx_rnd": ["-"],
       "mktpx": [
         {
-          "VXX": 23.31
+          "VXX": 22.56
         }
       ],
-      "mktpx_chr": ["23.31"],
+      "mktpx_chr": ["22.56"],
       "midpx": [
         {
-          "VXX.mid": 23.51
+          "VXX.mid": 23.0957
         }
       ],
-      "midpx_chr": ["23.51"],
+      "midpx_chr": ["23.0957"],
       "equivMult": [1],
       "exposure": [0],
       "exposure_chr": ["0"],
@@ -277,13 +277,13 @@
   },
   "volxw2": {
     "signal": ["SHORT"],
-    "dateSig": ["2019-09-18"],
-    "dateSig_full": ["Wednesday, 18 September 2019"],
-    "dateSig_dmy": ["18 September 2019"],
+    "dateSig": ["2019-09-19"],
+    "dateSig_full": ["Thursday, 19 September 2019"],
+    "dateSig_dmy": ["19 September 2019"],
     "lim_mil": ["$3.5M"],
-    "scale": [0.8],
-    "scalim_mil": ["$2.8M"],
-    "scalim_pct": ["80%"],
+    "scale": [1],
+    "scalim_mil": ["$3.5M"],
+    "scalim_pct": ["100%"],
     "VXX": {
       "open_qty": [0],
       "oqty_abs": ["0"],
@@ -292,16 +292,16 @@
       "costPx_rnd": ["-"],
       "mktpx": [
         {
-          "VXX": 23.31
+          "VXX": 22.56
         }
       ],
-      "mktpx_chr": ["23.31"],
+      "mktpx_chr": ["22.56"],
       "midpx": [
         {
-          "VXX.mid": 23.51
+          "VXX.mid": 23.0957
         }
       ],
-      "midpx_chr": ["23.51"],
+      "midpx_chr": ["23.0957"],
       "equivMult": [1],
       "exposure": [0.001],
       "exposure_chr": ["0"],
@@ -333,11 +333,11 @@
   },
   "portfolio": {
     "realized": [-89564.16],
-    "unrealized": [-198015.437],
-    "total": [-287579.597],
+    "unrealized": [-177637.427],
+    "total": [-267201.587],
     "rzdpct": [0.0038],
-    "px_date_full": ["Tuesday, 17 September 2019"],
-    "px_date": ["2019-09-17"],
+    "px_date_full": ["Wednesday, 18 September 2019"],
+    "px_date": ["2019-09-18"],
     "limit": [17000000]
   }
 }
