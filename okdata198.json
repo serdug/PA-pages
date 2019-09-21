@@ -190,7 +190,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["-"],
+    "apm": ["buy to open"],
     "limit": [0],
     "realized": [-342912.48],
     "unrealized": [0],
