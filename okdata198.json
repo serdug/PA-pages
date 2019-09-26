@@ -1,6 +1,6 @@
 {
   "equity": {
-    "signal": ["LONG"],
+    "signal": ["-"],
     "dateSig": ["2019-09-26"],
     "dateSig_full": ["Thursday, 26 September 2019"],
     "dateSig_dmy": ["26 September 2019"],
@@ -36,7 +36,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["TBA"],
+    "apm": ["-"],
     "limit": [5000000],
     "realized": [167705.21],
     "unrealized": [0],
@@ -124,7 +124,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["TBA"],
+    "apm": ["hold"],
     "limit": [0],
     "realized": [-423643.2],
     "unrealized": [0],
