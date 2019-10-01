@@ -1,9 +1,9 @@
 {
   "equity": {
     "signal": ["-"],
-    "dateSig": ["2019-09-30"],
-    "dateSig_full": ["Monday, 30 September 2019"],
-    "dateSig_dmy": ["30 September 2019"],
+    "dateSig": ["2019-10-01"],
+    "dateSig_full": ["Tuesday, 01 October 2019"],
+    "dateSig_dmy": ["01 October 2019"],
     "lim_mil": ["$5M"],
     "scale": [1],
     "scalim_mil": ["$5M"],
@@ -16,10 +16,10 @@
       "costPx_rnd": ["-"],
       "mktpx": [
         {
-          "SPY": 295.4
+          "SPY": 296.77
         }
       ],
-      "mktpx_chr": ["295.4"],
+      "mktpx_chr": ["296.77"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -45,9 +45,9 @@
   },
   "tbonds": {
     "signal": ["-"],
-    "dateSig": ["2019-09-30"],
-    "dateSig_full": ["Monday, 30 September 2019"],
-    "dateSig_dmy": ["30 September 2019"],
+    "dateSig": ["2019-10-01"],
+    "dateSig_full": ["Tuesday, 01 October 2019"],
+    "dateSig_dmy": ["01 October 2019"],
     "lim_mil": ["$5M"],
     "scale": [1],
     "scalim_mil": ["$5M"],
@@ -60,10 +60,10 @@
       "costPx_rnd": ["144.76"],
       "mktpx": [
         {
-          "TLT": 142.73
+          "TLT": 143.08
         }
       ],
-      "mktpx_chr": ["142.73"],
+      "mktpx_chr": ["143.08"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -75,23 +75,23 @@
       "midvalue_chr": ["-"],
       "equivval": ["NA"],
       "equivval_chr": ["-"],
-      "mtmpl": [-70221.138],
-      "unr_chr": ["-70.2"]
+      "mtmpl": [-58132.488],
+      "unr_chr": ["-58.1"]
     },
-    "unrealized_chr": ["-70.2"],
+    "unrealized_chr": ["-58.1"],
     "equivexp_chr": ["5"],
     "apm": ["-"],
     "limit": [5000000],
     "realized": [443321.67],
-    "unrealized": [-70221.138],
-    "total": [373100.5362],
+    "unrealized": [-58132.488],
+    "total": [385189.1862],
     "rzdpct": [0.0835]
   },
   "oilnf_": {
     "signal": ["SHORT"],
-    "dateSig": ["2019-09-30"],
-    "dateSig_full": ["Monday, 30 September 2019"],
-    "dateSig_dmy": ["30 September 2019"],
+    "dateSig": ["2019-10-01"],
+    "dateSig_full": ["Tuesday, 01 October 2019"],
+    "dateSig_dmy": ["01 October 2019"],
     "lim_mil": ["$0M"],
     "scale": [1],
     "scalim_mil": ["$0M"],
@@ -104,10 +104,10 @@
       "costPx_rnd": ["-"],
       "mktpx": [
         {
-          "USO": 11.66
+          "USO": 11.34
         }
       ],
-      "mktpx_chr": ["11.66"],
+      "mktpx_chr": ["11.34"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -124,7 +124,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["hold"],
+    "apm": ["TBA"],
     "limit": [0],
     "realized": [-423643.2],
     "unrealized": [0],
@@ -136,8 +136,8 @@
       "position": ["-"],
       "costPx": ["NaN"],
       "costPx_rnd": ["-"],
-      "mktpx": [55.91],
-      "mktpx_chr": ["55.91"],
+      "mktpx": [54.07],
+      "mktpx_chr": ["54.07"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -155,9 +155,9 @@
   },
   "oilwf_": {
     "signal": ["SHORT"],
-    "dateSig": ["2019-09-30"],
-    "dateSig_full": ["Monday, 30 September 2019"],
-    "dateSig_dmy": ["30 September 2019"],
+    "dateSig": ["2019-10-01"],
+    "dateSig_full": ["Tuesday, 01 October 2019"],
+    "dateSig_dmy": ["01 October 2019"],
     "lim_mil": ["$0M"],
     "scale": [1],
     "scalim_mil": ["$0M"],
@@ -170,10 +170,10 @@
       "costPx_rnd": ["-"],
       "mktpx": [
         {
-          "USO": 11.66
+          "USO": 11.34
         }
       ],
-      "mktpx_chr": ["11.66"],
+      "mktpx_chr": ["11.34"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -190,7 +190,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["sell to open"],
+    "apm": ["TBA"],
     "limit": [0],
     "realized": [-342912.48],
     "unrealized": [0],
@@ -202,8 +202,8 @@
       "position": ["-"],
       "costPx": ["NaN"],
       "costPx_rnd": ["-"],
-      "mktpx": [55.91],
-      "mktpx_chr": ["55.91"],
+      "mktpx": [54.07],
+      "mktpx_chr": ["54.07"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -221,9 +221,9 @@
   },
   "volmf_": {
     "signal": ["-"],
-    "dateSig": ["2019-09-30"],
-    "dateSig_full": ["Monday, 30 September 2019"],
-    "dateSig_dmy": ["30 September 2019"],
+    "dateSig": ["2019-10-01"],
+    "dateSig_full": ["Tuesday, 01 October 2019"],
+    "dateSig_dmy": ["01 October 2019"],
     "lim_mil": ["$3.5M"],
     "scale": [0.6],
     "scalim_mil": ["$2.1M"],
@@ -236,16 +236,16 @@
       "costPx_rnd": ["-"],
       "mktpx": [
         {
-          "VXX": 24.46
+          "VXX": 23.74
         }
       ],
-      "mktpx_chr": ["24.46"],
+      "mktpx_chr": ["23.74"],
       "midpx": [
         {
-          "VXX.mid": 24.2475
+          "VXX.mid": 23.845
         }
       ],
-      "midpx_chr": ["24.2475"],
+      "midpx_chr": ["23.845"],
       "equivMult": [1],
       "exposure": [0],
       "exposure_chr": ["0"],
@@ -277,9 +277,9 @@
   },
   "volxw2": {
     "signal": ["SHORT"],
-    "dateSig": ["2019-09-30"],
-    "dateSig_full": ["Monday, 30 September 2019"],
-    "dateSig_dmy": ["30 September 2019"],
+    "dateSig": ["2019-10-01"],
+    "dateSig_full": ["Tuesday, 01 October 2019"],
+    "dateSig_dmy": ["01 October 2019"],
     "lim_mil": ["$3.5M"],
     "scale": [0.8],
     "scalim_mil": ["$2.8M"],
@@ -292,16 +292,16 @@
       "costPx_rnd": ["-"],
       "mktpx": [
         {
-          "VXX": 24.46
+          "VXX": 23.74
         }
       ],
-      "mktpx_chr": ["24.46"],
+      "mktpx_chr": ["23.74"],
       "midpx": [
         {
-          "VXX.mid": 24.2475
+          "VXX.mid": 23.845
         }
       ],
-      "midpx_chr": ["24.2475"],
+      "midpx_chr": ["23.845"],
       "equivMult": [1],
       "exposure": [0.001],
       "exposure_chr": ["0"],
@@ -333,11 +333,11 @@
   },
   "portfolio": {
     "realized": [-89564.16],
-    "unrealized": [-70221.137],
-    "total": [-159785.297],
+    "unrealized": [-58132.487],
+    "total": [-147696.647],
     "rzdpct": [0.0038],
-    "px_date_full": ["Friday, 27 September 2019"],
-    "px_date": ["2019-09-27"],
+    "px_date_full": ["Monday, 30 September 2019"],
+    "px_date": ["2019-09-30"],
     "limit": [17000000]
   }
 }
