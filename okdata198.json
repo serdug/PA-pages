@@ -1,9 +1,9 @@
 {
   "equity": {
     "signal": ["SHORT"],
-    "dateSig": ["2019-11-05"],
-    "dateSig_full": ["Tuesday, 05 November 2019"],
-    "dateSig_dmy": ["05 November 2019"],
+    "dateSig": ["2019-11-06"],
+    "dateSig_full": ["Wednesday, 06 November 2019"],
+    "dateSig_dmy": ["06 November 2019"],
     "lim_mil": ["$5M"],
     "scale": [1],
     "scalim_mil": ["$5M"],
@@ -16,10 +16,10 @@
       "costPx_rnd": ["-"],
       "mktpx": [
         {
-          "SPY": 307.37
+          "SPY": 307.03
         }
       ],
-      "mktpx_chr": ["307.37"],
+      "mktpx_chr": ["307.03"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -36,7 +36,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["stay away"],
+    "apm": ["TBA"],
     "limit": [5000000],
     "realized": [167705.21],
     "unrealized": [0],
@@ -45,9 +45,9 @@
   },
   "tbonds": {
     "signal": ["LONG"],
-    "dateSig": ["2019-11-05"],
-    "dateSig_full": ["Tuesday, 05 November 2019"],
-    "dateSig_dmy": ["05 November 2019"],
+    "dateSig": ["2019-11-06"],
+    "dateSig_full": ["Wednesday, 06 November 2019"],
+    "dateSig_dmy": ["06 November 2019"],
     "lim_mil": ["$5M"],
     "scale": [1],
     "scalim_mil": ["$5M"],
@@ -60,10 +60,10 @@
       "costPx_rnd": ["-"],
       "mktpx": [
         {
-          "TLT": 138.71
+          "TLT": 137.15
         }
       ],
-      "mktpx_chr": ["138.71"],
+      "mktpx_chr": ["137.15"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -89,9 +89,9 @@
   },
   "oilnf_": {
     "signal": ["LONG"],
-    "dateSig": ["2019-11-05"],
-    "dateSig_full": ["Tuesday, 05 November 2019"],
-    "dateSig_dmy": ["05 November 2019"],
+    "dateSig": ["2019-11-06"],
+    "dateSig_full": ["Wednesday, 06 November 2019"],
+    "dateSig_dmy": ["06 November 2019"],
     "lim_mil": ["$0M"],
     "scale": [1],
     "scalim_mil": ["$0M"],
@@ -104,10 +104,10 @@
       "costPx_rnd": ["-"],
       "mktpx": [
         {
-          "USO": 11.81
+          "USO": 11.93
         }
       ],
-      "mktpx_chr": ["11.81"],
+      "mktpx_chr": ["11.93"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -124,7 +124,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["hold"],
+    "apm": ["TBA"],
     "limit": [0],
     "realized": [-423643.2],
     "unrealized": [0],
@@ -136,8 +136,8 @@
       "position": ["-"],
       "costPx": ["NaN"],
       "costPx_rnd": ["-"],
-      "mktpx": [56.54],
-      "mktpx_chr": ["56.54"],
+      "mktpx": [57.23],
+      "mktpx_chr": ["57.23"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -155,9 +155,9 @@
   },
   "oilwf_": {
     "signal": ["LONG"],
-    "dateSig": ["2019-11-05"],
-    "dateSig_full": ["Tuesday, 05 November 2019"],
-    "dateSig_dmy": ["05 November 2019"],
+    "dateSig": ["2019-11-06"],
+    "dateSig_full": ["Wednesday, 06 November 2019"],
+    "dateSig_dmy": ["06 November 2019"],
     "lim_mil": ["$0M"],
     "scale": [1],
     "scalim_mil": ["$0M"],
@@ -170,10 +170,10 @@
       "costPx_rnd": ["-"],
       "mktpx": [
         {
-          "USO": 11.81
+          "USO": 11.93
         }
       ],
-      "mktpx_chr": ["11.81"],
+      "mktpx_chr": ["11.93"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -190,7 +190,7 @@
     },
     "unrealized_chr": ["0"],
     "equivexp_chr": ["0"],
-    "apm": ["hold"],
+    "apm": ["TBA"],
     "limit": [0],
     "realized": [-342912.48],
     "unrealized": [0],
@@ -202,8 +202,8 @@
       "position": ["-"],
       "costPx": ["NaN"],
       "costPx_rnd": ["-"],
-      "mktpx": [56.54],
-      "mktpx_chr": ["56.54"],
+      "mktpx": [57.23],
+      "mktpx_chr": ["57.23"],
       "midpx": [null],
       "midpx_chr": ["-"],
       "equivMult": [1],
@@ -221,9 +221,9 @@
   },
   "volmf_": {
     "signal": ["SHORT"],
-    "dateSig": ["2019-11-05"],
-    "dateSig_full": ["Tuesday, 05 November 2019"],
-    "dateSig_dmy": ["05 November 2019"],
+    "dateSig": ["2019-11-06"],
+    "dateSig_full": ["Wednesday, 06 November 2019"],
+    "dateSig_dmy": ["06 November 2019"],
     "lim_mil": ["$3.5M"],
     "scale": [0.8],
     "scalim_mil": ["$2.8M"],
@@ -236,16 +236,16 @@
       "costPx_rnd": ["-"],
       "mktpx": [
         {
-          "VXX": 18.9
+          "VXX": 19.29
         }
       ],
-      "mktpx_chr": ["18.9"],
+      "mktpx_chr": ["19.29"],
       "midpx": [
         {
-          "VXX.mid": 18.8025
+          "VXX.mid": 19.14
         }
       ],
-      "midpx_chr": ["18.8025"],
+      "midpx_chr": ["19.14"],
       "equivMult": [1],
       "exposure": [0],
       "exposure_chr": ["0"],
@@ -277,9 +277,9 @@
   },
   "volxw2": {
     "signal": ["SHORT"],
-    "dateSig": ["2019-11-05"],
-    "dateSig_full": ["Tuesday, 05 November 2019"],
-    "dateSig_dmy": ["05 November 2019"],
+    "dateSig": ["2019-11-06"],
+    "dateSig_full": ["Wednesday, 06 November 2019"],
+    "dateSig_dmy": ["06 November 2019"],
     "lim_mil": ["$3.5M"],
     "scale": [1],
     "scalim_mil": ["$3.5M"],
@@ -292,16 +292,16 @@
       "costPx_rnd": ["-"],
       "mktpx": [
         {
-          "VXX": 18.9
+          "VXX": 19.29
         }
       ],
-      "mktpx_chr": ["18.9"],
+      "mktpx_chr": ["19.29"],
       "midpx": [
         {
-          "VXX.mid": 18.8025
+          "VXX.mid": 19.14
         }
       ],
-      "midpx_chr": ["18.8025"],
+      "midpx_chr": ["19.14"],
       "equivMult": [1],
       "exposure": [0.001],
       "exposure_chr": ["0"],
@@ -336,8 +336,8 @@
     "unrealized": [0.001],
     "total": [-82514.449],
     "rzdpct": [0.0041],
-    "px_date_full": ["Monday, 04 November 2019"],
-    "px_date": ["2019-11-04"],
+    "px_date_full": ["Tuesday, 05 November 2019"],
+    "px_date": ["2019-11-05"],
     "limit": [17000000]
   }
 }
