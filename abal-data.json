@@ -4,17 +4,29 @@
     "reg": ["SHORT"],
     "pos": ["hold"],
     "sig_expl": ["The algoritmically predicted SPY (SPDR S&amp;P 500 ETF) close-to-close price tendency on the fifth trade day is"],
+<<<<<<< HEAD
     "dateSig": ["2019-12-16"],
     "dateSig_full": ["Monday, 16 December 2019"],
     "dateSig_dmy": ["16 December 2019"],
     "datePos_dmy": ["17 December 2019"],
     "datePos_full": ["Tuesday, 17 December 2019"],
+=======
+    "dateSig": ["2019-12-13"],
+    "dateSig_full": ["Friday, 13 December 2019"],
+    "dateSig_dmy": ["13 December 2019"],
+    "datePos_dmy": ["16 December 2019"],
+    "datePos_full": ["Monday, 16 December 2019"],
+>>>>>>> f7111f17211cd7c435f62d53c08b1de83bbcda6f
     "scale": [2],
     "prec_up_pct_250": [67],
     "prec_up_pct_100": [68],
     "prec_up_pct_50": [88],
     "true_pred_up_250": [83],
+<<<<<<< HEAD
     "count_pred_up_250": [123],
+=======
+    "count_pred_up_250": [124],
+>>>>>>> f7111f17211cd7c435f62d53c08b1de83bbcda6f
     "true_pred_up_100": [27],
     "count_pred_up_100": [40],
     "true_pred_up_50": [15],
@@ -23,11 +35,19 @@
     "prec_dn_pct_100": [35],
     "prec_dn_pct_50": [12],
     "true_pred_dn_250": [40],
+<<<<<<< HEAD
     "count_pred_dn_250": [127],
     "true_pred_dn_100": [21],
     "count_pred_dn_100": [60],
     "true_pred_dn_50": [4],
     "count_pred_dn_50": [33],
+=======
+    "count_pred_dn_250": [126],
+    "true_pred_dn_100": [21],
+    "count_pred_dn_100": [60],
+    "true_pred_dn_50": [4],
+    "count_pred_dn_50": [32],
+>>>>>>> f7111f17211cd7c435f62d53c08b1de83bbcda6f
     "accuracy_pct_250": [49],
     "accuracy_pct_100": [48],
     "accuracy_pct_50": [38],
