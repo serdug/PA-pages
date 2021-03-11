@@ -9,7 +9,7 @@
     "dateSig_dmy": ["10 March 2021"],
     "datePos_dmy": ["11 March 2021"],
     "datePos_full": ["Thursday, 11 March 2021"],
-    "scale": [2],
+    "scale": [0],
     "prec_up_pct_250": [71],
     "prec_up_pct_100": [66],
     "prec_up_pct_50": [82],
