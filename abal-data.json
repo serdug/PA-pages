@@ -1,7 +1,43 @@
 {
   "abiesalba": {
-    "sig": ["Down"],
+    "sig": ["Up"],
     "reg": ["SHORT"],
+<<<<<<< HEAD
+    "pos": ["buy to close"],
+    "sig_expl": ["The algoritmically predicted SPY (SPDR S&amp;P 500 ETF) close-to-close price tendency on the fifth trade day is"],
+    "dateSig": ["2021-05-10"],
+    "dateSig_full": ["Monday, 10 May 2021"],
+    "dateSig_dmy": ["10 May 2021"],
+    "datePos_dmy": ["11 May 2021"],
+    "datePos_full": ["Tuesday, 11 May 2021"],
+    "scale": [1],
+    "prec_up_pct_250": [74],
+    "prec_up_pct_100": [75],
+    "prec_up_pct_50": [77],
+    "true_pred_up_250": [93],
+    "count_pred_up_250": [125],
+    "true_pred_up_100": [40],
+    "count_pred_up_100": [53],
+    "true_pred_up_50": [24],
+    "count_pred_up_50": [31],
+    "prec_dn_pct_250": [45],
+    "prec_dn_pct_100": [51],
+    "prec_dn_pct_50": [53],
+    "true_pred_dn_250": [56],
+    "count_pred_dn_250": [125],
+    "true_pred_dn_100": [24],
+    "count_pred_dn_100": [47],
+    "true_pred_dn_50": [10],
+    "count_pred_dn_50": [19],
+    "accuracy_pct_250": [60],
+    "accuracy_pct_100": [64],
+    "accuracy_pct_50": [68],
+    "true_pred_250": [149],
+    "tot_tested_250": [250],
+    "true_pred_100": [64],
+    "tot_tested_100": [100],
+    "true_pred_50": [34],
+=======
     "pos": ["sell to open"],
     "sig_expl": ["The algoritmically predicted SPY (SPDR S&amp;P 500 ETF) close-to-close price tendency on the fifth trade day is"],
     "dateSig": ["2021-05-07"],
@@ -36,6 +72,7 @@
     "true_pred_100": [65],
     "tot_tested_100": [100],
     "true_pred_50": [35],
+>>>>>>> 26c4fb82271ea97becb59cf3467251445f2bbb9e
     "tot_tested_50": [50]
   }
 }
